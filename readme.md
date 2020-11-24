@@ -1,30 +1,14 @@
-<h1>Introduction</h1>
+# Horiseon Website Refactoring ticket
 
-Hello and thanks for visiting my repository.
+## Introduction
 
+Welcome to the repo for my refactoring work on the homepage for a marketing company. The company wanted to incorporate semantic elements as well as improve the website's accessibility.
 
+## Contents
 
-This repo is purposed for submitting gradeable homework assigments.
+1. 1
+   1. Assets
+   2. Develop
+2.
 
-<h2>Instructions</h2>
-
-If you = grader: 
-    
-    please have mercy!
-
-If you = visitor:
-    
-    please know my coding skills will improve over time, 
-    
-    please put down that baseball bat,
-    
-    please let me buy you a beer.
-
-If you = visitor and you = like my code: 
-    
-    maybe you can buy ME a cup of coffee.
-    
-  
-<h3>Inference</h3>
-
-Thanks for visiting my first repository. Adieu!
+##
