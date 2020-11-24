@@ -9,6 +9,9 @@ Welcome to the repo for my refactoring work on the homepage for a marketing comp
 1. 1
    1. Assets
    2. Develop
+   3. assets
+      1. css
+      2. img
 2.
 
 ##
