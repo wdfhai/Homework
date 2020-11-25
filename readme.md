@@ -8,10 +8,10 @@ Welcome to the repo for my refactoring work on the homepage for a marketing comp
 
 1. index.html
 2. readme.md
-3. project_files/
-   3a. Assets
-   . images (contains image files)
-   . css (contains style.css)
+3. project_files
+   - Assets
+     ** images (contains image files)
+     ** css (contains style.css)
 4. .gitignore
 5. preview.png
 
