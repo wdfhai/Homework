@@ -10,7 +10,6 @@ Welcome to the repo for my refactoring work on the homepage for a marketing comp
 - readme.md
 - .gitignore
 - preview.png
-- project_files
   - Assets
     - images (contains image files)
     - css (contains style.css)
@@ -22,3 +21,5 @@ https://wdfhai.github.io/Horiseon-Ticket/#social-media-marketing/index.html
 ## Preview
 
 <img src="preview.png" height="400px" weight="600px">
+
+### Thank you for visiting my repository. Cheers!
