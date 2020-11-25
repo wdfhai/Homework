@@ -6,14 +6,14 @@ Welcome to the repo for my refactoring work on the homepage for a marketing comp
 
 ## Contents
 
-1. index.html
-2. readme.md
-3. project_files
-   - Assets
-     ** images (contains image files)
-     ** css (contains style.css)
-4. .gitignore
-5. preview.png
+- index.html
+- readme.md
+- .gitignore
+- preview.png
+- project_files
+  - Assets
+    - images (contains image files)
+    - css (contains style.css)
 
 ## Deployed Link
 
