@@ -6,10 +6,18 @@ Welcome to the repo for my refactoring work on the homepage for a marketing comp
 
 ## Contents
 
-1. project_files
-   1. index.html
-   2. Assets/
-      2a. images/ (contains image files)
-      2b. css/ (contains style.css)
+1. index.html
+2. readme.md
+3. project_files/
+   3a. Assets/
+   . images/ (contains image files)
+   . css/ (contains style.css)
+4. .gitignore
 
-##
+## Deployed Link
+
+https://wdfhai.github.io/Horiseon-Ticket/#social-media-marketing/index.html
+
+## Preview
+
+<img src="preview.png" height="400px" weight="600px">
