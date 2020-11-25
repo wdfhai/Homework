@@ -10,9 +10,9 @@ Welcome to the repo for my refactoring work on the homepage for a marketing comp
 - readme.md
 - .gitignore
 - preview.png
-  - Assets
-    - images (contains image files)
-    - css (contains style.css)
+- Assets
+  - images (contains image files)
+  - css (contains style.css)
 
 ## Deployed Link
 
