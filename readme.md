@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the repo for my refactoring work on the homepage for a marketing company. The company wanted to incorporate semantic elements as well as improve the website's accessibility.
+Welcome to the repo for my refactoring work on the homepage for a marketing company named Horiseon Social Solution. The company wanted to incorporate semantic elements into its code as well as improve the website's accessibility. As a junior web developer, this task required lots of time, learning on the go and improvisation. In the end, I feel I have completed the task as assigned.
 
 ## Contents
 
